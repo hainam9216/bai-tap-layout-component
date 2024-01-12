@@ -11,3 +11,45 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#Banner {
+  padding-top: 8rem;
+  font-size: 1.5rem;
+}
+
+#Banner h1 {
+  font-size: 3rem;
+  font-weight: 700;
+}
+
+#Banner button{
+  font-size: 1.2rem;
+  padding: 8px 15px;
+  border-radius: 9px;
+}
+
+#item{
+  padding-top: 8rem
+}
+.card{
+  border: none;
+}
+.Item-logo i{
+  font-size: 2rem;
+  color: white;
+  border-radius: 10%;
+}
+.card-title{
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+#footer{
+  padding-top: 8rem ;
+}
+
+#footer-content{
+  color: white;
+  font-size: 1rem;
+  padding: 1rem;
+  padding-top: 3rem;
+}
